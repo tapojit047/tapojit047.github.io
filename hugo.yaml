@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://tapajitpaul.github.io
 
-languageCode: bn
-title: "John's Blog"
+languageCode: en-us
+title: "Tapajit Chandra Paul"
 
 # Use Hugo modules to add theme
 module:
@@ -23,7 +23,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Tapajit Chandra Paul"
     weight: 1
   bn:
     languageCode: bn
@@ -68,7 +68,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/tapojit047/tapajitpaul.github.io
   # Default branch of your Git repo
   gitBranch: main
 
@@ -144,7 +144,7 @@ params:
 
     # Enable Analytics
     analytics:
-      enabled: true
+      enabled: false
       services:
         # Google Analytics
         google:
