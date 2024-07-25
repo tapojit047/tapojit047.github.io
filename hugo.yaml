@@ -1,4 +1,4 @@
-baseURL: https://tapajitpaul.github.io
+baseURL: https://tapojit047.github.io
 
 languageCode: en-us
 title: "Tapajit Chandra Paul"
@@ -68,7 +68,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/tapojit047/tapajitpaul.github.io
+  gitRepo: https://github.com/tapojit047/tapojit047.github.io
   # Default branch of your Git repo
   gitBranch: main
 
