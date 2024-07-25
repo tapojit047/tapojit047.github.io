@@ -2,7 +2,7 @@
 name: "Tapajit Chandra Paul"
 nickname: "Tapajit"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
+greeting: "Hola, I am"
 image: "images/author/tapajit.jpeg"
 # give your some contact information. they will be used in the footer
 contactInfo:
