@@ -23,7 +23,7 @@ skills:
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "Worked with most of the major clouds such as Azure, GCP, AWS, Linode etc."
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
@@ -32,8 +32,18 @@ skills:
 
 - name: Prometheus
   logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters.  Also, experienced with setting up metric exporters for databases."
   url: "https://prometheus.io/"
+
+- name: Grafana
+  logo: /images/sections/skills/grafana.png
+  summary: "Capable of setup, configure Grafana Dashbooards. Experienced with implementing Grafana dashboards for visualizing data scrapped by prometheus from databases on Kubernetes."
+  url: "https://grafana.com/"
+
+- name: Apache Druid
+  logo: /images/sections/skills/druid.png
+  summary: "Experienced in setting up Apache Druid in Kubernetes. Built Kubernetes Controller for Druid with monitoring support with Prometheus & Grafana dashboard for metrics observation. Additionally, implemented autoscaling support for the druid clusters."
+  url: "https://druid.apache.org/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
@@ -46,4 +56,4 @@ skills:
 
 - name: C++
   logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  summary: "Know basic C/C++ programming. Used for contest programming and Data Structure & Algorithmic problem solving."
