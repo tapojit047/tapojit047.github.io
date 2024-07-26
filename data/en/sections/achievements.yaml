@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Achievements
+  name: Photo frame
   id: achievements
   enable: true
   weight: 10
@@ -10,15 +10,19 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Best Presenter
-  image: /images/sections/achievements/presenter.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-- title: Champion
-  image: /images/sections/achievements/sport.jpg
-  summary: Champion in cycling inter-city cycling championship 2020.
+- title: Competitive Programming Journey
+  image: /images/sections/achievements/ncpc.jpg
+  summary: Participating with my team in National Collegiate Programming Contest 2017.
+- title: KCD Dhaka
+  image: /images/sections/achievements/k8s.jpg
+  summary: Attended the Kubernetes Community Days (KCD) Dhaka, 2022
+- title: Certificate of Recognition
+  image: /images/sections/achievements/certificate.jpg
+  summary: Certificate of Recognition for my contribution as the Organizing Secretary of CUET Computer Club
 - title: Graduation
-  image: /images/sections/achievements/graduation-cap.jpg
-  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from Chittagong University of Engineering & Technology.
-- title: Award Winner
-  image: /images/sections/achievements/woman-winner.jpg
-  summary: Wined best paper award at IEE Conference 2020.
+  image: /images/sections/achievements/graduation.jpg
+  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineering from Chittagong University of Engineering & Technology.
+
+#- title: Award Winner
+#  image: /images/sections/achievements/woman-winner.jpg
+#  summary: Wined best paper award at IEE Conference 2020.

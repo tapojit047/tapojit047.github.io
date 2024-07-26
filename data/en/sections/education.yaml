@@ -12,7 +12,7 @@ section:
 
 degrees:
   - name: B.Sc. in Computer Science & Engineering
-    icon: fa-graduation-cap
+    icon: /images/sections/education/CUET.png
     logo: /images/sections/education/CUET.png
     timeframe: 2017-2022
     institution:
