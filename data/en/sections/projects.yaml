@@ -14,51 +14,75 @@ buttons:
   filter: "all"
 - name: Professional
   filter: "professional"
-- name: Academic
+- name: Open-Source
   filter: "academic"
-- name: Hobby
-  filter: "hobby"
 
 # your projects
 projects:
 - name: KubeDB
-  logo: /images/sections/projects/kubernetes.png
+  logo: /images/sections/projects/kubedb.png
   role: Developer
   timeline: "August 2021 - Present"
   repo: https://github.com/kubedb/docs # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  url: "https://kubedb.com/"
   summary: KubeDB simplifies Provision, Upgrade, Scaling, Volume Expansion, Monitor, Backup, Restore for various Databases in Kubernetes on any Public & Private Cloud.
   tags: ["professional", "kubernetes", "go"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
+- name: ByteBuilders by AppsCode
+  logo: /images/sections/projects/bytebuilders.jpeg
   role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+  #  timeline: "Jan 2023 - Present"
+  url: "https://byte.builders"
+  summary: ByteBuilders is the Back-End server for a Kubernetes Dashboard. Deploy, manage, upgrade Kubernetes on any cloud and automate deployment, scaling, and management of containerized applications.
+  tags: ["professional", "kubernetes", "cloud", "go", "backend"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+- name: Cluster API Provider GCP
+  logo: /images/sections/projects/cluster-api.svg
+  role: Contributor
+  repo: https://github.com/kubernetes-sigs/cluster-api-provider-azure
+  url: https://github.com/kubernetes-sigs/cluster-api-provider-azure/pull/3974
+  summary: Fixed some issues regarding validation for nodepool name.
+  tags: ["open-source", "kubernetes", "azure", "go"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+- name: Apache Druid
+  logo: /images/sections/projects/druid.png
+  role: Contributor
+  url: https://github.com/apache/druid/pull/16209
+  summary: Added some basic metrics for druid prometheus exporter
+  tags: ["open-source", "druid"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+- name: Kubeops
+  logo: /images/sections/projects/kubeops.png
+  role: Contributor
+  url: https://github.com/kubeops
+  summary: A collection of curated tools by AppsCode to simplify Kubernetes operations
+  tags: ["open-source", "kubernetes", "go", "professional"]
+
+- name: Kubernetes Modules
+  logo: /images/sections/projects/kmodules.png
+  role: Contributor
+  url: https://github.com/kmodules
+  summary: Unofficial Kubernetes projects by AppsCode
+  tags: ["open-source", "kubernetes", "go", "professional"]
+
+- name: Kubeform
+  logo: /images/sections/projects/kubeform.png
+  role: Contributor
+  url: https://github.com/kubeform
+  summary: Crossplane Distro by AppsCode
+  tags: ["open-source", "kubernetes", "go", "professional"]
+
+- name: kluster-api
+  logo: /images/sections/projects/kluster-api.jpeg
+  role: Contributor
+  url: https://github.com/kluster-api
+  summary: Unofficial Kubernetes Cluster API Projects by AppsCode
+  tags: ["open-source", "kubernetes", "go", "professional"]
+
+- name: Kubepack
+  logo: /images/sections/projects/kubepack.png
+  role: Contributor
+  url: https://github.com/kubepack
+  summary: Kubernetes Package Installer by AppsCode
+  tags: ["open-source", "kubernetes", "go", "professional"]

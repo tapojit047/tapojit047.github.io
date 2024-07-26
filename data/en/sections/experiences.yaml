@@ -11,6 +11,7 @@ section:
 # Your experiences
 experiences:
   - company:
+      logo: /images/sections/experiences/appscode.png
       name: Appscode Ltd.
       url: "https://www.appscode.com"
       location: Dhaka Branch

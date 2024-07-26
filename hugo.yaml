@@ -58,14 +58,14 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: /images/site/background.jpg
+  background: /images/site/bg.gif
 
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   logo:
-    main: /images/site/main-logo.png
-    inverted: /images/site/inverted-logo.png
-    favicon: /images/site/favicon.png
+    main: /images/site/logo-tapo.png
+    inverted: /images/site/logo-tapo.png
+    favicon: /images/site/logo-tapo.png
 
   # GitHub repo of your site
   gitRepo: https://github.com/tapojit047/tapojit047.github.io
